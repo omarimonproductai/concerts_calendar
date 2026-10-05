@@ -251,9 +251,21 @@
       "country_code": "GB",
       "url": "https://www.stereoboard.com/madness-tickets/york",
       "notes": ""
+    },
+    {
+      "id": "love-of-lesbian-2026-11-28-amozoc",
+      "artist": "Love Of Lesbian",
+      "title": "Love of Lesbian @ Autódromo Miguel E. Abed",
+      "date": "2026-11-28",
+      "venue": "Autódromo Miguel E. Abed",
+      "city": "Amozoc",
+      "country": "Mèxic",
+      "country_code": "MX",
+      "url": "https://www.songkick.com/festivals/1888074-tecate-comuna/id/43234735-tecate-comuna-2026?utm_medium=organic&utm_source=microformat",
+      "notes": ""
     }
   ],
-  "last_updated": "2026-09-28T16:43:46+0200",
+  "last_updated": "2026-10-05T17:25:28+0200",
   "sources": [
     "https://www.stereoboard.com/madness-tickets",
     "https://www.vivoconcerti.com/roster/max-pezzali/max-forever-goes-to-europe",
