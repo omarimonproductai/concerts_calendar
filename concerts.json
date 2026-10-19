@@ -85,18 +85,6 @@
       "notes": "Gira 20è aniversari"
     },
     {
-      "id": "madness-2026-10-16-castellon",
-      "artist": "Madness",
-      "title": "MADNESS",
-      "date": "2026-10-16",
-      "venue": "Castellon Edificio Cultural Leopoldo Peñarroja",
-      "city": "Castellon",
-      "country": "Espanya",
-      "country_code": "ES",
-      "url": "https://www.stereoboard.com/madness-tickets/castellon",
-      "notes": ""
-    },
-    {
       "id": "madness-2027-02-27-perth",
       "artist": "Madness",
       "title": "Madness",
@@ -265,7 +253,7 @@
       "notes": ""
     }
   ],
-  "last_updated": "2026-10-12T18:18:38+0200",
+  "last_updated": "2026-10-19T16:11:30+0200",
   "sources": [
     "https://www.stereoboard.com/madness-tickets",
     "https://www.vivoconcerti.com/roster/max-pezzali/max-forever-goes-to-europe",
